@@ -321,10 +321,12 @@ nav{
         padding: 0.3vh;
         font-size: medium;
     }
+    
     .nav-img{
         padding-top: 2vh; 
-        height: 5vh;
+        height: 4vh;
     }
+    
 
     nav > .about{
         display: none;
