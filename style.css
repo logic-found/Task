@@ -189,9 +189,9 @@ nav{
     cursor: pointer;
 }
 
-.third-section-right-div > button > img{
-    height: 1.2vh;
-    width: 1.2vw;    
+.third-section-right-div > div >button > img{
+    height: 1.5vh;
+    width: 1.5vw;    
 }
 
 
